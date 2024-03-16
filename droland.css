@@ -1,0 +1,37 @@
+body {
+    border: 0 auto;
+    width: fit-content;
+}
+
+section {
+    display: flex;
+}
+
+.title {
+    text-align: center;
+    font-size: 6em;
+    font: weight 900px;
+
+}
+
+#dro {
+    color: black;
+}
+
+#land {
+    color: orangered;
+}
+
+.intro {
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.width {
+    width: 50%;
+}
+
+p {
+    font-size: 3em;
+    font-weight: 400;
+}
