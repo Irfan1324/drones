@@ -11,11 +11,12 @@ section {
     text-align: center;
     font-size: 6em;
     font: weight 900px;
+    background-color: black;
 
 }
 
 #dro {
-    color: black;
+    color: white;
 }
 
 #land {
@@ -29,9 +30,20 @@ section {
 
 .width {
     width: 50%;
+    border 2px;
+    margin: 10px;
+    padding: 10px;
 }
 
 p {
     font-size: 3em;
     font-weight: 400;
+    text-align: justify;
+
+    ;
+}
+
+.left-half {
+    background-color: black;
+    color: white;
 }
